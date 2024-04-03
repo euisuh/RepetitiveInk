@@ -71,42 +71,42 @@ RepetitiveInk is a MATLAB project focused on image manipulation, particularly wa
 
 ### Input Image
 
-![input-image](input_image.jpg)
+![input-image](assets/input_image.jpg)
 
 TIFF format / 960x600 / RGB
 
 ### Output Image 1
 
-![output-lsb](output_lsb.jpg)
+![output-lsb](assets/output_lsb.jpg)
 
 TIFF format / 960x600 / RGB / Sequential injection / Repetition / LSB manipulation
 
 ### Output Image 2
 
-![output-msb](output_msb.jpg)
+![output-msb](assets/output_msb.jpg)
 
 TIFF format / 960x600 / RGB / Sequential injection / Repetition / MSB manipulation
 
 ### Output Image 3
 
-![output-50](output50.jpg)
+![output-50](assets/output50.jpg)
 
 TIFF format / 480x300 / RGB / Sequential injection / Repetition / MSB manipulation / Image cropped to preserve the central 50% of both width and height, maintaining the middle portion intact
 
 ### Output Image 4
 
-![output-10](output10.jpg)
+![output-10](assets/output10.jpg)
 
 TIFF format / 96x30 / RGB / Sequential injection / Repetition / MSB manipulation / Image cropped to preserve the central 10% of both width and height, maintaining the middle portion intact
 
 ### Output Image 5
 
-![output-25](output25.jpg)
+![output-25](assets/output25.jpg)
 
 TIFF format / 240x150 / RGB / Sequential injection / Repetition / MSB manipulation / Image cropped to preserve the central 25% of both width and height, maintaining the middle portion intact
 
 ### Output Image 6
 
-![output-5](output5.jpg)
+![output-5](assets/output5.jpg)
 
 TIFF format / 48x30 / RGB / Sequential injection / Repetition / MSB manipulation / Image cropped to preserve the central 5% of both width and height, maintaining the middle portion intact
